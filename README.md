@@ -3,8 +3,8 @@
 This repository contains two web applications, showcasing a view of a 3D model in browsers.
 
 The webapps are hosted via GitHub pages:
-1) A [C# Unity web app](https://michaeliusachapelo.github.io/ElementCustomizationTool/Unity.html), created in one hour.
-2) A [TypeScript + React Three Fiber](https://michaeliusachapelo.github.io/ElementCustomizationTool/index.html) page, created in five hours.
+1) A [C# Unity web app](https://michaeliusrepo.github.io/ElementCustomizationTool/Unity.html), created in one hour.
+2) A [TypeScript + React Three Fiber](https://michaeliusrepo.github.io/ElementCustomizationTool/) page, created in five hours.
 
 ![ok](https://i.imgur.com/09UTBYw.png)
 
